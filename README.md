@@ -36,3 +36,19 @@ This console-based Python program simulates a simple bank account system. It inc
 
    ```bash
    git clone https://github.com/your-username/bank-account-program.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd bank-account-program
+
+3. Run the program:
+
+   ```bash
+   python main.py
+
+## Dependencies
+This program uses the following Python modules:
+   - **json:** For reading and writing data to a JSON file.
+   - **random:** For generating random account numbers.
+   - **hashlib:** For securely hashing passwords.
