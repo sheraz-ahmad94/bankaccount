@@ -1,0 +1,177 @@
+{
+    "1234567": {
+        "hashed_password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "balance": 11000,
+        "transaction_history": [
+            {
+                "transaction_type": "Deposit",
+                "amount": 500,
+                "timestamp": "2023-01-01 12:34:56"
+            },
+            {
+                "transaction_type": "Withdrawal",
+                "amount": 200,
+                "timestamp": "2023-01-02 10:15:30"
+            },
+            {
+                "transaction_type": "Deposit",
+                "amount": 1000,
+                "timestamp": "2023-11-30 06:29:53"
+            },
+            {
+                "transaction_type": "Deposit",
+                "amount": 1000,
+                "timestamp": "2023-11-30 06:37:24"
+            },
+            {
+                "transaction_type": "Deposit",
+                "amount": 1000,
+                "timestamp": "2023-11-30 06:43:46"
+            },
+            {
+                "transaction_type": "Withdraw",
+                "amount": 1000,
+                "timestamp": "2023-11-30 06:44:22"
+            },
+            {
+                "transaction_type": "Deposit",
+                "amount": 1000,
+                "timestamp": "2023-11-30 18:45:40"
+            },
+            {
+                "transaction_type": "Withdraw",
+                "amount": 1000,
+                "timestamp": "2023-11-30 18:46:07"
+            },
+            {
+                "transaction_type": "Deposit",
+                "amount": 1000,
+                "timestamp": "2023-11-30 18:46:48"
+            },
+            {
+                "transaction_type": "Withdraw",
+                "amount": 1000,
+                "timestamp": "2023-11-30 18:46:53"
+            }
+        ]
+    },
+    "2345678": {
+        "hashed_password": "1a2b3c4d5e6f...",
+        "balance": 1500,
+        "transaction_history": [
+            {
+                "transaction_type": "Deposit",
+                "amount": 700,
+                "timestamp": "2023-01-03 15:45:00"
+            },
+            {
+                "transaction_type": "Withdrawal",
+                "amount": 300,
+                "timestamp": "2023-01-04 08:22:18"
+            }
+        ]
+    },
+    "9378064": {
+        "hashed_password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "balance": 124312,
+        "transaction_history": [
+            {
+                "transaction_type": "Deposit",
+                "amount": 1000,
+                "timestamp": "2023-11-30 06:38:26"
+            }
+        ]
+    },
+    "8145362": {
+        "hashed_password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "balance": 4123123,
+        "transaction_history": []
+    },
+    "3429175": {
+        "hashed_password": "8d23cf6c86e834a7aa6eded54c26ce2bb2e74903538c61bdd5d2197997ab2f72",
+        "balance": 123132,
+        "transaction_history": []
+    },
+    "9348650": {
+        "hashed_password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "balance": 32422,
+        "transaction_history": []
+    },
+    "5146829": {
+        "hashed_password": "ea65145f9e84f9c90b21b92798063ac012991b6d801f505bbd1451625d2fb4a8",
+        "balance": 1000,
+        "transaction_history": []
+    },
+    "9865302": {
+        "hashed_password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "balance": 6969,
+        "transaction_history": []
+    },
+    "7210645": {
+        "hashed_password": "3538a1ef2e113da64249eea7bd068b585ec7ce5df73b2d1e319d8c9bf47eb314",
+        "balance": 10100,
+        "transaction_history": []
+    },
+    "4976102": {
+        "hashed_password": "8d23cf6c86e834a7aa6eded54c26ce2bb2e74903538c61bdd5d2197997ab2f72",
+        "balance": 1000,
+        "transaction_history": []
+    },
+    "4087361": {
+        "hashed_password": "8d23cf6c86e834a7aa6eded54c26ce2bb2e74903538c61bdd5d2197997ab2f72",
+        "balance": 1000,
+        "transaction_history": []
+    },
+    "0692413": {
+        "hashed_password": "fe2592b42a727e977f055947385b709cc82b16b9a87f88c6abf3900d65d0cdc3",
+        "balance": 1212,
+        "transaction_history": []
+    },
+    "3516429": {
+        "hashed_password": "8d23cf6c86e834a7aa6eded54c26ce2bb2e74903538c61bdd5d2197997ab2f72",
+        "balance": 1111,
+        "transaction_history": []
+    },
+    "5620178": {
+        "hashed_password": "fe2592b42a727e977f055947385b709cc82b16b9a87f88c6abf3900d65d0cdc3",
+        "balance": 4321,
+        "transaction_history": []
+    },
+    "9042785": {
+        "hashed_password": "fe2592b42a727e977f055947385b709cc82b16b9a87f88c6abf3900d65d0cdc3",
+        "balance": 432423,
+        "transaction_history": []
+    },
+    "2971403": {
+        "hashed_password": "20f3765880a5c269b747e1e906054a4b4a3a991259f1e16b5dde4742cec2319a",
+        "balance": 1122,
+        "transaction_history": []
+    },
+    "0869543": {
+        "hashed_password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "balance": 0,
+        "transaction_history": [
+            {
+                "transaction_type": "Deposit",
+                "amount": 1000,
+                "timestamp": "2023-11-30 19:00:25"
+            },
+            {
+                "transaction_type": "Withdraw",
+                "amount": 2000,
+                "timestamp": "2023-11-30 19:00:33"
+            }
+        ]
+    },
+    "1382509": {
+        "hashed_password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "balance": 2000,
+        "transaction_history": [
+            {
+                "transaction_type": "Deposit",
+                "amount": 1000,
+                "timestamp": "2023-11-30 18:56:27"
+            }
+        ]
+    }
+}
