@@ -35,7 +35,7 @@ This console-based Python program simulates a simple bank account system. It inc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bank-account-program.git
+   git clone https://github.com/sheraz-ahmad94/bank-account-program.git
 
 2. Navigate to the project directory:
 
